@@ -1,0 +1,10 @@
+flask
+flask-cors
+flask-jwt-extended
+flask-sqlalchemy
+pymysql
+cryptography
+opencv-python-headless
+numpy
+reportlab
+matplotlib
